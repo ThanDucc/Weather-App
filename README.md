@@ -5,4 +5,4 @@
 This is preview
 
 
-<img width="232" src="https://user-images.githubusercontent.com/89775012/164148917-5fb59edf-a338-4365-9806-88d67dca1778.png"> <img width="764" src="https://user-images.githubusercontent.com/89775012/164149161-1ea5cf72-2b6b-4ccb-b118-62f3c23ef01d.png">
+<img width="220" src="https://user-images.githubusercontent.com/89775012/164148917-5fb59edf-a338-4365-9806-88d67dca1778.png"> <img width="723" src="https://user-images.githubusercontent.com/89775012/164149161-1ea5cf72-2b6b-4ccb-b118-62f3c23ef01d.png">
